@@ -16,20 +16,6 @@ A simple currency converter built with **React** and **Vite**, using the [FawazA
 - Tailwind CSS
 - JavaScript (ES6+)
 
-## 📁 Project Structure
-root/
-├── public/
-├── src/
-│ ├── App.jsx
-│ ├── components/
-│ │ └── InputBox.jsx
-│ ├── hooks/
-│ │ └── useCurrencyInfo.js
-│ └── main.jsx
-├── .env
-├── index.html
-├── package.json
-└── vite.config.js
 
 ## 🚀 Getting Started
 
@@ -40,7 +26,7 @@ cd currency-converter
 npm install
 api -> VITE_API_KEY=https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies
 npm run dev
-'''
+```
 
 ##📄 License
 -MIT License. Feel free to use and modify.
