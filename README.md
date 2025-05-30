@@ -40,6 +40,7 @@ cd currency-converter
 npm install
 api -> VITE_API_KEY=https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies
 npm run dev
+'''
 
 ##📄 License
 -MIT License. Feel free to use and modify.
