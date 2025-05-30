@@ -32,6 +32,6 @@ npm run dev
 -MIT License. Feel free to use and modify.
 
 ##🙌 Acknowledgements
--FawazAhmed Currency API
--Vite
--Tailwind CSS
+- FawazAhmed Currency API
+- Vite
+- Tailwind CSS
